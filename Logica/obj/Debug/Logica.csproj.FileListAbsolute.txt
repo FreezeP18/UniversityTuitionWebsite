@@ -1,0 +1,11 @@
+C:\Users\sebas\OneDrive\Documentos\GitHub\proyecto-matricula-universidad\Logica\bin\Debug\Logica.dll
+C:\Users\sebas\OneDrive\Documentos\GitHub\proyecto-matricula-universidad\Logica\bin\Debug\Logica.pdb
+C:\Users\sebas\OneDrive\Documentos\GitHub\proyecto-matricula-universidad\Logica\bin\Debug\Datos.dll
+C:\Users\sebas\OneDrive\Documentos\GitHub\proyecto-matricula-universidad\Logica\bin\Debug\Objetos.dll
+C:\Users\sebas\OneDrive\Documentos\GitHub\proyecto-matricula-universidad\Logica\bin\Debug\Datos.pdb
+C:\Users\sebas\OneDrive\Documentos\GitHub\proyecto-matricula-universidad\Logica\bin\Debug\Objetos.pdb
+C:\Users\sebas\OneDrive\Documentos\GitHub\proyecto-matricula-universidad\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+C:\Users\sebas\OneDrive\Documentos\GitHub\proyecto-matricula-universidad\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\sebas\OneDrive\Documentos\GitHub\proyecto-matricula-universidad\Logica\obj\Debug\Logica.csproj.Up2Date
+C:\Users\sebas\OneDrive\Documentos\GitHub\proyecto-matricula-universidad\Logica\obj\Debug\Logica.dll
+C:\Users\sebas\OneDrive\Documentos\GitHub\proyecto-matricula-universidad\Logica\obj\Debug\Logica.pdb

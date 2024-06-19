@@ -1,0 +1,12 @@
+C:\Users\sebas\OneDrive\Documentos\GitHub\proyecto-matricula-universidad\Datos\bin\Debug\Datos.dll
+C:\Users\sebas\OneDrive\Documentos\GitHub\proyecto-matricula-universidad\Datos\bin\Debug\Datos.pdb
+C:\Users\sebas\OneDrive\Documentos\GitHub\proyecto-matricula-universidad\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\sebas\OneDrive\Documentos\GitHub\proyecto-matricula-universidad\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\sebas\OneDrive\Documentos\GitHub\proyecto-matricula-universidad\Datos\obj\Debug\Datos.dll
+C:\Users\sebas\OneDrive\Documentos\GitHub\proyecto-matricula-universidad\Datos\obj\Debug\Datos.pdb
+F:\VisualProyectosLocos\PrograIV\Proyecto02\proyecto-matricula-universidad\Datos\bin\Debug\Datos.dll
+F:\VisualProyectosLocos\PrograIV\Proyecto02\proyecto-matricula-universidad\Datos\bin\Debug\Datos.pdb
+F:\VisualProyectosLocos\PrograIV\Proyecto02\proyecto-matricula-universidad\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+F:\VisualProyectosLocos\PrograIV\Proyecto02\proyecto-matricula-universidad\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+F:\VisualProyectosLocos\PrograIV\Proyecto02\proyecto-matricula-universidad\Datos\obj\Debug\Datos.dll
+F:\VisualProyectosLocos\PrograIV\Proyecto02\proyecto-matricula-universidad\Datos\obj\Debug\Datos.pdb

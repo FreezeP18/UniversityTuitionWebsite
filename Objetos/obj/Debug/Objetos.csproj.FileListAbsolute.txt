@@ -1,0 +1,6 @@
+C:\Users\sebas\OneDrive\Documentos\GitHub\proyecto-matricula-universidad\Objetos\bin\Debug\Objetos.dll
+C:\Users\sebas\OneDrive\Documentos\GitHub\proyecto-matricula-universidad\Objetos\bin\Debug\Objetos.pdb
+C:\Users\sebas\OneDrive\Documentos\GitHub\proyecto-matricula-universidad\Objetos\obj\Debug\Objetos.csproj.AssemblyReference.cache
+C:\Users\sebas\OneDrive\Documentos\GitHub\proyecto-matricula-universidad\Objetos\obj\Debug\Objetos.csproj.CoreCompileInputs.cache
+C:\Users\sebas\OneDrive\Documentos\GitHub\proyecto-matricula-universidad\Objetos\obj\Debug\Objetos.dll
+C:\Users\sebas\OneDrive\Documentos\GitHub\proyecto-matricula-universidad\Objetos\obj\Debug\Objetos.pdb
